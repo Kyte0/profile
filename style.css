@@ -1,0 +1,70 @@
+body {
+  background-image: url('images/shutterstock_399120586.png');
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  color: #114b5f;
+  margin: 30px; padding: 5px;
+}
+h1 {
+*/  font-family: 'Newsreader', serif;
+    letter-spacing: 0.15px;
+    /*font-weight: lighter*/;
+    color: 456990;
+}
+
+h2 {
+*/  font-family: 'Newsreader', serif;
+    letter-spacing: 0.15px;
+    font-weight: lighter;
+    font-size: 15px;
+    color: 456990;
+}
+
+p {
+  font-size: 10px;
+}
+
+button {
+  background-color: #f45b69; /* Green */
+  border: none;
+  border-radius: 27px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #f45b6999;
+}
+
+#Profile-Box {
+  background-color: white;
+  padding: 10px;
+  height: 520px;
+  width: 350px;
+  align-content: center;
+  text-align: center;
+  border: 20px;
+  border-width: 10px;
+  border-radius: 30px;
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2)
+}
+
+li {
+  display: inline;
+  padding: 10px 30px;
+}
+
+ul {
+  text-align: center;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #cdd0e3;
+}
+
